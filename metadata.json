@@ -1,0 +1,7 @@
+{
+  "name": "Professional AI-Powered Portfolio",
+  "description": "A high-end professional portfolio featuring an AI Image Studio for profile customization and a Gemini-powered chat assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
